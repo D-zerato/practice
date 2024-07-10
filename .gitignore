@@ -1,2 +1,15 @@
-**/node_modules/
+# jetBrain
 **/.idea/
+
+## front
+# node
+**/node_modules/
+
+## back
+# java
+**/build/
+*.class
+
+## etc
+# log
+*.log
